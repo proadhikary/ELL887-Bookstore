@@ -35,7 +35,7 @@ cd ELL887-Bookstor
 Install the required dependencies:
 
 ```bash
-pip install -r requirements.txt
+pip install Flask Flask-SQLAlchemy
 ```
 
 ### Usage
