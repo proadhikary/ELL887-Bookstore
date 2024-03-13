@@ -1,6 +1,6 @@
 # ELL887 Bookstore
 
-ELL887 Bookstore is a simple Flask web app that allows users to manage a collection of books. Users can view the list of books, visit their URLs, and add new books to the collection.
+ELL887 Bookstore is a simple Flask web app that allows users to manage a collection of books. Users can view the list of books, visit their URLs, and add new books to the collection. <a href="http://20.193.156.153:8080/">Preview.</a>
 <img src="https://raw.githubusercontent.com/proadhikary/ELL887-Bookstore/main/instance/ss.png" width=100%>
 
 ## Features
